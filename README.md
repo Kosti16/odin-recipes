@@ -1,1 +1,1 @@
-# odin-recipes
+Now i will make project about recipes. I'll make homepage, and few pages with recipes.
